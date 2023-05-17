@@ -1,0 +1,12 @@
+{
+    "Name": "الاسم ",
+    "Age":"العمر",
+    "Submit":"الارسال",
+    "title":"العنوان",
+    "popularity":"الانتشار",
+    "release_date":"تاريخ النشر",
+    "vote_count":"عدد الأصوات",
+    "vote_average":"المتوسط",
+    "overview":"الزتونة",
+    "Delete":"إزالة"
+}
